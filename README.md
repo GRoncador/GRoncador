@@ -1,6 +1,6 @@
 ✌️ Hi, I’m @GRoncador!
 - 🌎 High-Impact entrepreneur and passionate about creating innovative digital products and services;
-- 🎓 Bachelor in Economics;
+- 🎓 MBA candidate in Business Analysis and Bachelor in Economics;
 - 💡 Co-founder of two startups;
 - 🎯 Certified Scrum Product Owner (CSPO®) by Scrum Alliance.
   
