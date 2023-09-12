@@ -10,7 +10,7 @@ Thank you for stopping by!
 
 🔭 I’m currently working on...
 
-Improving my skills in Python and data analysis through personal projects and online courses. Check out my latest projects in the repositories below or in my [Kaggle](https://www.kaggle.com/gustavorb) profile!
+Improving my skills in Python and data analysis through personal projects and online courses. Check out my latest projects on my [Website](https://www.groncadorborges.com/?utm_source=github_bio&utm_medium=github) or in my [Kaggle](https://www.kaggle.com/gustavorb) profile!
 
 🌱 I’m currently learning...
 
@@ -24,7 +24,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/gustavo-rb/), whe
 
 💻 Check out my latest projects...
 
-[Here](https://github.com/GRoncador?tab=repositories) are some of the software development and data science projects I have developed in my free time to study and have fun. Enjoy!
+[Here](https://www.groncadorborges.com/?utm_source=github_bio&utm_medium=github) you will find more information about me and also check my latest data analysis projects I have developed. Enjoy, and don't forget to send me your feedback later!
 
 🎓 Education and Certifications...
 
@@ -32,7 +32,6 @@ MBA in Business Analytics, University Canada West (UCW), Dec 2022
 
 Bachelor of Economics, University of Brasilia (UnB), Dec 2016
 
-Certified Scrum Product Owner (CSPO®), Scrum Alliance
 
 🚀 Skills...
 
